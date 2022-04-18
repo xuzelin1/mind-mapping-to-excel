@@ -1,0 +1,900 @@
+{
+  "leftChildren": [
+    {
+      "parent": "root",
+      "children": [
+        {
+          "parent": "fb4a58e629e7",
+          "children": [
+            {
+              "parent": "a59e57313e73",
+              "children": [],
+              "id": "2a5cdf753d1d",
+              "title": "过敏药"
+            },
+            {
+              "parent": "a59e57313e73",
+              "children": [],
+              "id": "752677dcd821",
+              "title": "维生素"
+            },
+            {
+              "parent": "a59e57313e73",
+              "children": [],
+              "id": "bdce418e9897",
+              "title": "感冒药"
+            },
+            {
+              "parent": "a59e57313e73",
+              "children": [],
+              "id": "d4400c130d67",
+              "title": "肠胃药"
+            },
+            {
+              "parent": "a59e57313e73",
+              "children": [],
+              "id": "47a659727da9",
+              "title": "止痛药"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "a59e57313e73",
+              "children": [],
+              "range": "0,4",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "1a8858a29326",
+              "title": "外框"
+            }
+          ],
+          "id": "a59e57313e73",
+          "title": "普通常备药"
+        },
+        {
+          "parent": "fb4a58e629e7",
+          "children": [
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "08d0dbcd39fb",
+              "title": "小剪刀"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "5539e913f187",
+              "title": "酒精"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "9da5f7b447fb",
+              "title": "棉签"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "8dca9450ba49",
+              "title": "创可贴"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "b41666c82823",
+              "title": "碘伏"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "135966e9303c",
+              "title": "纱布"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "23a7c7660bbb",
+              "title": "绷带"
+            },
+            {
+              "parent": "56cd106116fc",
+              "children": [],
+              "id": "3e0ecf475b6b",
+              "title": "小剪刀"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "56cd106116fc",
+              "children": [],
+              "range": "0,7",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "ef246a25fdf2",
+              "title": "外框"
+            }
+          ],
+          "id": "56cd106116fc",
+          "title": "急救药箱"
+        },
+        {
+          "parent": "fb4a58e629e7",
+          "children": [
+            {
+              "parent": "528d05ca8a6a",
+              "children": [],
+              "id": "3d0f2ad3cf39",
+              "title": "哮喘药"
+            },
+            {
+              "parent": "528d05ca8a6a",
+              "children": [],
+              "id": "db8f466c0651",
+              "title": "降压药"
+            },
+            {
+              "parent": "528d05ca8a6a",
+              "children": [],
+              "id": "093bcaa05eb6",
+              "title": "抗糖药"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "528d05ca8a6a",
+              "children": [],
+              "range": "0,2",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "09efd4604c32",
+              "title": "外框"
+            }
+          ],
+          "id": "528d05ca8a6a",
+          "title": "特殊人群用药"
+        },
+        {
+          "parent": "fb4a58e629e7",
+          "children": [
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [
+                {
+                  "parent": "7fc678834c88",
+                  "children": [],
+                  "id": "dc9c8e687ed7",
+                  "title": "普通医用口罩"
+                },
+                {
+                  "parent": "7fc678834c88",
+                  "children": [],
+                  "id": "fc58ee5e1748",
+                  "title": "N95"
+                },
+                {
+                  "parent": "7fc678834c88",
+                  "children": [],
+                  "id": "88f8575cd1eb",
+                  "title": "KN95"
+                }
+              ],
+              "boundaries": [
+                {
+                  "boundary": true,
+                  "parent": "7fc678834c88",
+                  "boundRank": 1,
+                  "children": [],
+                  "range": "0,2",
+                  "style": {
+                    "lineType": "1",
+                    "dasharray": "6,3",
+                    "opacity": "0.1",
+                    "lineWidth": "2"
+                  },
+                  "id": "5c65d625be84",
+                  "title": "外框"
+                }
+              ],
+              "id": "7fc678834c88",
+              "title": "医用口罩"
+            },
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [],
+              "id": "bd87641e169a",
+              "title": "医用手套"
+            },
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [],
+              "id": "785753a7a538",
+              "title": "75%酒精及喷壶"
+            },
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [],
+              "id": "fdaa47b1687b",
+              "title": "护目镜"
+            },
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [],
+              "id": "1a7b724a6b19",
+              "title": "免洗洗手液"
+            },
+            {
+              "parent": "a0a2e10dd2a0",
+              "children": [],
+              "id": "4a3c58f8a190",
+              "title": "防护服"
+            }
+          ],
+          "collapsed": false,
+          "id": "a0a2e10dd2a0",
+          "title": "防疫用品"
+        }
+      ],
+      "boundaries": [],
+      "id": "fb4a58e629e7",
+      "title": "医用药品"
+    },
+    {
+      "parent": "root",
+      "children": [
+        {
+          "parent": "44f57d82008d",
+          "children": [
+            {
+              "parent": "a0445964d93d",
+              "children": [],
+              "id": "632692d554b4",
+              "title": "干湿纸巾"
+            },
+            {
+              "parent": "a0445964d93d",
+              "children": [],
+              "id": "97ef0815628f",
+              "title": "棉签"
+            },
+            {
+              "parent": "a0445964d93d",
+              "children": [],
+              "id": "1415b5a5b334",
+              "title": "垃圾袋"
+            },
+            {
+              "parent": "a0445964d93d",
+              "children": [],
+              "id": "7494e90063fb",
+              "title": "卫生巾"
+            },
+            {
+              "parent": "a0445964d93d",
+              "children": [],
+              "id": "9a9becdd64b1",
+              "title": "体温计"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "a0445964d93d",
+              "children": [],
+              "range": "0,4",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "8d1ac1ada37d",
+              "title": "外框"
+            }
+          ],
+          "id": "a0445964d93d",
+          "title": "日用类"
+        },
+        {
+          "parent": "44f57d82008d",
+          "children": [
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "c40611a978ff",
+              "title": "沐浴露"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "20c26c812e62",
+              "title": "洗发水"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "5f0e0c801ac4",
+              "title": "护发素"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "5b3c0a381cf4",
+              "title": "洗手液"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "3d33f596512c",
+              "title": "洗衣液"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "1345a66d7ebd",
+              "title": "牙膏"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "43e1708b2ff1",
+              "title": "牙刷"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "4204efb97ad6",
+              "title": "涑口水"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "cf7bf80c1091",
+              "title": "牙线"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "8d6fcf864bf3",
+              "title": "肥皂"
+            },
+            {
+              "parent": "316824ccfed8",
+              "children": [],
+              "id": "d1ace65c6f0a",
+              "title": "消毒液"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "316824ccfed8",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,10",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "fa98891e4cb2",
+              "title": "外框"
+            }
+          ],
+          "id": "316824ccfed8",
+          "title": "洗浴类"
+        },
+        {
+          "parent": "44f57d82008d",
+          "children": [
+            {
+              "parent": "815fba35bf5c",
+              "children": [],
+              "id": "408551c9a089",
+              "title": "婴幼儿奶粉"
+            },
+            {
+              "parent": "815fba35bf5c",
+              "children": [],
+              "id": "7ade85580ba5",
+              "title": "尿不湿"
+            },
+            {
+              "parent": "815fba35bf5c",
+              "children": [],
+              "id": "8a4d6a1e72f9",
+              "title": "隔尿垫"
+            },
+            {
+              "parent": "815fba35bf5c",
+              "children": [],
+              "id": "ea920dddec68",
+              "title": "宠物的粮食"
+            },
+            {
+              "parent": "815fba35bf5c",
+              "children": [],
+              "id": "962c73e38725",
+              "title": "猫砂"
+            }
+          ],
+          "collapsed": true,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "815fba35bf5c",
+              "children": [],
+              "range": "0,4",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "1923af8bc920",
+              "title": "外框"
+            }
+          ],
+          "id": "815fba35bf5c",
+          "title": "有小孩和宠物的"
+        }
+      ],
+      "collapsed": false,
+      "id": "44f57d82008d",
+      "title": "生活用品"
+    }
+  ],
+  "children": [
+    {
+      "parent": "root",
+      "children": [
+        {
+          "parent": "a21367ee15c8",
+          "children": [
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "330bb9864177",
+              "title": "<font face=\"黑体\">大米</font>"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [
+                {
+                  "parent": "5f99eb8c3ae7",
+                  "children": [],
+                  "id": "daf79d4a5d2b",
+                  "title": "糙米、燕麦米、小米、高粱米、红豆、<br>绿豆、黄豆、黑豆、燕麦片、藜麦"
+                }
+              ],
+              "id": "5f99eb8c3ae7",
+              "title": "<font face=\"黑体\">杂粮</font>"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "9209a57e043e",
+              "title": "面粉"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "f5d672d13013",
+              "title": "面条"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "f9f58b3bd8ba",
+              "title": "方便面"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "dc9169435ac1",
+              "title": "速冻食品"
+            },
+            {
+              "parent": "60794bd716ab",
+              "children": [],
+              "id": "24aea23521ed",
+              "title": "压缩饼干"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "60794bd716ab",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,6",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "1769b54af50a",
+              "title": "外框"
+            }
+          ],
+          "id": "60794bd716ab",
+          "title": "<font face=\"黑体\">（1）主食</font>"
+        },
+        {
+          "parent": "a21367ee15c8",
+          "children": [
+            {
+              "parent": "2f8964c1390c",
+              "children": [
+                {
+                  "parent": "a9349e63690b",
+                  "children": [],
+                  "id": "ab51a7aca29f",
+                  "title": "猪、牛、羊、鸡鸭鱼、海鲜"
+                }
+              ],
+              "id": "a9349e63690b",
+              "title": "红肉、白肉"
+            },
+            {
+              "parent": "2f8964c1390c",
+              "children": [
+                {
+                  "parent": "1c52d1552e81",
+                  "children": [],
+                  "id": "0bb0df39cea6",
+                  "title": "腊肉"
+                },
+                {
+                  "parent": "1c52d1552e81",
+                  "children": [],
+                  "id": "86525ff4a900",
+                  "title": "腊肠"
+                },
+                {
+                  "parent": "1c52d1552e81",
+                  "children": [
+                    {
+                      "parent": "b1ba93c5bdf3",
+                      "children": [],
+                      "id": "51a04a325f2f",
+                      "title": "午餐肉"
+                    }
+                  ],
+                  "id": "b1ba93c5bdf3",
+                  "title": "罐头"
+                }
+              ],
+              "id": "1c52d1552e81",
+              "title": "方便肉"
+            },
+            {
+              "parent": "2f8964c1390c",
+              "children": [
+                {
+                  "parent": "4ab9129b789b",
+                  "children": [],
+                  "id": "0cb4f1b72a8e",
+                  "title": "鸡蛋-冷藏最多8周"
+                }
+              ],
+              "id": "4ab9129b789b",
+              "title": "蛋"
+            },
+            {
+              "parent": "2f8964c1390c",
+              "children": [
+                {
+                  "parent": "7263ed8f50be",
+                  "children": [],
+                  "id": "05dfc8bcf6fa",
+                  "title": "豆奶"
+                }
+              ],
+              "id": "7263ed8f50be",
+              "title": "奶"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "2f8964c1390c",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,3",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "1734bab9b94d",
+              "title": "外框"
+            }
+          ],
+          "id": "2f8964c1390c",
+          "title": "<font face=\"黑体\">（2）肉蛋奶豆</font>"
+        },
+        {
+          "parent": "a21367ee15c8",
+          "children": [
+            {
+              "parent": "0743e8fd1ba9",
+              "children": [
+                {
+                  "parent": "2071a29891ca",
+                  "children": [],
+                  "id": "8299894d9829",
+                  "title": "土豆"
+                },
+                {
+                  "parent": "2071a29891ca",
+                  "children": [],
+                  "id": "4999e7e38fd3",
+                  "title": "红薯"
+                },
+                {
+                  "parent": "2071a29891ca",
+                  "children": [],
+                  "id": "108ef57ec85d",
+                  "title": "紫薯"
+                },
+                {
+                  "parent": "2071a29891ca",
+                  "children": [],
+                  "id": "a9c044d96b55",
+                  "title": "南瓜"
+                },
+                {
+                  "parent": "2071a29891ca",
+                  "children": [],
+                  "id": "74a345e3e9be",
+                  "title": "海带"
+                }
+              ],
+              "id": "2071a29891ca",
+              "title": "<font face=\"黑体\">可放一个月的蔬菜</font>"
+            },
+            {
+              "parent": "0743e8fd1ba9",
+              "children": [
+                {
+                  "parent": "530949238f34",
+                  "children": [],
+                  "id": "4cb22277db17",
+                  "title": "大白菜"
+                },
+                {
+                  "parent": "530949238f34",
+                  "children": [],
+                  "id": "3d89f51ac7b0",
+                  "title": "萝卜"
+                },
+                {
+                  "parent": "530949238f34",
+                  "children": [],
+                  "id": "bbe750c50fae",
+                  "title": "山药"
+                },
+                {
+                  "parent": "530949238f34",
+                  "children": [],
+                  "id": "b53034986315",
+                  "title": "大葱"
+                },
+                {
+                  "parent": "530949238f34",
+                  "children": [],
+                  "id": "39d774570bcc",
+                  "title": "大蒜"
+                }
+              ],
+              "id": "530949238f34",
+              "title": "可放半个月的蔬菜"
+            },
+            {
+              "parent": "0743e8fd1ba9",
+              "children": [
+                {
+                  "parent": "f68d9d95c7fe",
+                  "children": [],
+                  "id": "5c003ff5ac64",
+                  "title": "苹果"
+                },
+                {
+                  "parent": "f68d9d95c7fe",
+                  "children": [],
+                  "id": "87b905ccc9b3",
+                  "title": "梨"
+                },
+                {
+                  "parent": "f68d9d95c7fe",
+                  "children": [],
+                  "id": "191478a702db",
+                  "title": "柑橘"
+                },
+                {
+                  "parent": "f68d9d95c7fe",
+                  "children": [],
+                  "id": "e9606f85f555",
+                  "title": "柚子"
+                }
+              ],
+              "boundaries": [],
+              "id": "f68d9d95c7fe",
+              "title": "可放一个月的水果"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "0743e8fd1ba9",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,0",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "0d868ade8452",
+              "title": "外框"
+            },
+            {
+              "boundary": true,
+              "parent": "0743e8fd1ba9",
+              "boundRank": 1,
+              "children": [],
+              "range": "1,1",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "aea0f54e5baf",
+              "title": "外框"
+            },
+            {
+              "boundary": true,
+              "parent": "0743e8fd1ba9",
+              "boundRank": 1,
+              "children": [],
+              "range": "2,2",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "829b52f393e4",
+              "title": "外框"
+            }
+          ],
+          "id": "0743e8fd1ba9",
+          "title": "<font face=\"黑体\">（3）蔬菜水果</font>"
+        },
+        {
+          "parent": "a21367ee15c8",
+          "children": [
+            {
+              "parent": "df9067b9dd49",
+              "children": [
+                {
+                  "parent": "21f750e4d96b",
+                  "children": [],
+                  "id": "f7f589627b61",
+                  "title": "食用油、盐、酱油、醋、白糖"
+                },
+                {
+                  "parent": "21f750e4d96b",
+                  "children": [],
+                  "id": "9271468a3666",
+                  "title": "料酒、胡椒粉、花椒粉、干辣椒、蚝油"
+                }
+              ],
+              "id": "21f750e4d96b",
+              "title": "基础调料"
+            },
+            {
+              "parent": "df9067b9dd49",
+              "children": [
+                {
+                  "parent": "0c3544d15f63",
+                  "children": [],
+                  "id": "3aa79ce4e908",
+                  "title": "火锅底料、咖喱块、汤底"
+                }
+              ],
+              "id": "0c3544d15f63",
+              "title": "其他调料"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "df9067b9dd49",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,1",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "8aba26705446",
+              "title": "外框"
+            }
+          ],
+          "id": "df9067b9dd49",
+          "title": "(4)厨房用品"
+        },
+        {
+          "parent": "a21367ee15c8",
+          "children": [
+            {
+              "parent": "5d3ad8849b7b",
+              "children": [],
+              "id": "87e3f4cf9c2c",
+              "title": "饮用矿泉水"
+            }
+          ],
+          "collapsed": false,
+          "boundaries": [
+            {
+              "boundary": true,
+              "parent": "5d3ad8849b7b",
+              "boundRank": 1,
+              "children": [],
+              "range": "0,0",
+              "style": {
+                "lineType": "1",
+                "dasharray": "6,3",
+                "opacity": "0.1",
+                "lineWidth": "2"
+              },
+              "id": "0343781a91c8",
+              "title": "外框"
+            }
+          ],
+          "id": "5d3ad8849b7b",
+          "title": "（5）水"
+        }
+      ],
+      "id": "a21367ee15c8",
+      "title": "食品类"
+    }
+  ],
+  "root": true,
+  "theme": "delicate_dark",
+  "id": "root",
+  "title": "<font face=\"黑体\">抗疫囤货</font>",
+  "structure": "mind_right"
+}
