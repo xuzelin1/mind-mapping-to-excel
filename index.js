@@ -4,7 +4,8 @@ const fs = require('fs');
 /**
  * 源数据
  */
-const data = fs.readFileSync('sourceData.JSON', 'utf8');
+let data = fs.readFileSync('sourceData.txt', 'utf8');
+data = eval(data);
 const sourceData = JSON.parse(data);
 
 /**
