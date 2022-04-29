@@ -7,7 +7,7 @@
 npm install
 ```
 
-### Fetch data and generate excel
+### 1、Fetch data and generate excel
 
 1. Open the Mind Mapping like this [Process On Mind Mapping Demo](https://www.processon.com/view/link/625e1f931efad40734bf4d3e)
 
@@ -21,6 +21,14 @@ https://www.processon.com/diagraming/getdef?tempId=625e7138f346fb0727825431&id=6
 
 4. Run the node command `node index`, and the `processon.xlsx` will change.
 
+
+### 2、Excel to xmind
+
+if you want to generate a `.xmind` file, you can do like this:
+
+1. replace the file `source/sourceExcel.xlsx`.
+
+2. run `node mind`, and the file `result/target.xmind` will change.
 
 ## Link
 
