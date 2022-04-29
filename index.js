@@ -4,7 +4,7 @@ const fs = require('fs');
 /**
  * 源数据
  */
-let data = fs.readFileSync('sourceData.txt', 'utf8');
+let data = fs.readFileSync('source/sourceData.txt', 'utf8');
 data = eval(data);
 const sourceData = JSON.parse(data);
 
@@ -23,7 +23,7 @@ const sheetOptions = {'!merges': [range, ...ranges]};
 const name = 'sheet';
 const buffer = xlsx.build([{name, data: pathList}], {sheetOptions}); // Returns a buffer
 
-fs.writeFile('processon.xlsx', buffer, function(err) {
+fs.writeFile('result/processon.xlsx', buffer, function(err) {
     if (err) {
         console.log("Write failed: " + err);
         return;
